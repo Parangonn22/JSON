@@ -1,1 +1,17 @@
-
+{
+"summary" : "AndroidTestGrid",
+"Project" : "Group30",
+"Version" : "30.1.0",
+"Severity" : "Blocker",
+"Priority" : "High",
+"Status" : "New",
+"Author" : "Parangon22",
+"Assigned to" : "John Smith",
+"Bug" : {
+        "Description" : "application doesn't starts, error 501",
+        "Version" : "Poco x3 pro, android 11 RKQ1.200826.002",
+        "STR" : "double click AndroidTestGrid.apk",
+        "AR" : "application starts",
+        "FR" : "error 501"
+}
+}
