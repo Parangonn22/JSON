@@ -11,7 +11,7 @@
         "Description" : "application doesn't starts, error 501",
         "Version" : "Poco x3 pro, android 11 RKQ1.200826.002",
         "STR" : "double click AndroidTestGrid.apk",
-        "AR" : "application starts",
-        "FR" : "error 501"
+        "ER" : "application starts",
+        "AR" : "error 501"
 }
 }
